@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hyy/CLionProjects/cpu_scheduler_III/main.c
+stdio.h
+-
+math.h
+-
+stdlib.h
+-
+sys/param.h
+-
+assert.h
+-
+time.h
+-
+
