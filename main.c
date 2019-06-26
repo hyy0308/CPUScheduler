@@ -4,7 +4,9 @@
 #include <sys/param.h>
 #include <assert.h>
 #include <time.h>
-
+/*
+ * This is the homework for school project 
+ */
 #define NONE 0
 #define SJF 1
 #define FCFS 2
